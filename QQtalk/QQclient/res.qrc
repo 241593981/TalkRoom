@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/close.svg</file>
+        <file>res/max.svg</file>
+        <file>res/setting.svg</file>
+        <file>res/small.svg</file>
+    </qresource>
+</RCC>
